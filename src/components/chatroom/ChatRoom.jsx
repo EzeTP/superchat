@@ -48,7 +48,7 @@ const ChatRoom = () => {
         />
 
         <button type="submit" disabled={!formValue}>
-          🕊️
+          Send
         </button>
       </form>
     </>
