@@ -4,6 +4,7 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 import ChatMessage from "./ChatMsg/ChatMessage";
 import { useCollectionData } from "react-firebase-hooks/firestore";
+import "./chatroom.css";
 
 const ChatRoom = () => {
   const auth = firebase.auth();
