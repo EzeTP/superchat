@@ -23,7 +23,7 @@ form {
   height: 10vh;
   position: fixed;
   bottom: 0;
-  background-color: rgb(24, 23, 23);
+  background-color: rgb(23, 24, 24);
   width: 100%;
   max-width: 728px;
   display: flex;
@@ -47,7 +47,7 @@ input {
 }
 
 button {
-  background-color: #282c34; /* Green */
+  background-color: #282c34;
   border: none;
   color: white;
   padding: 15px 32px;

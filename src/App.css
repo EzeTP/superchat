@@ -31,3 +31,6 @@ body {
   min-height: 100vh;
   background-color: hsl(203, 39%, 44%);
 }
+h1 {
+  font-size: 30px;
+}
